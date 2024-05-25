@@ -1,0 +1,24 @@
+#team{
+    display: flex;
+   justify-content: space-around;
+   color: #777768;
+}
+#chuyen, #sut, #rebong, #theluc, #phongthu{
+    margin-left: 20px;
+}
+#chiso1{
+    list-style: none;
+    column-count: 4;
+    width: 85%;
+    text-align: center;
+    color: #777768;
+}
+#chiso1 li{
+    margin-top: 5px;
+}
+#tong1{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    background-color: #111111;
+}

@@ -1,0 +1,76 @@
+/* #in4-1{
+    display: flex;
+}
+#in4-2{
+    display: flex;
+}
+#in4-3{
+    display: flex;
+}
+#in4-4{
+    display: flex;
+}
+#in4-4 img{
+    width: 78.75px;
+    height: 14px;
+}
+#in4-3 h3{
+    margin-left: 5px;
+}
+#in4-4 b{ 
+    margin-left: 5px;
+}
+#cont-1{
+    display: flex;
+  
+} */
+#tong{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    background-color: #1c272d;
+}
+#in4{
+ width: 100%;
+}
+#vitri{
+    margin-left: 5px;
+}
+#vitri b{
+ color: red;
+}
+#mua a img{
+    width: 26px;
+    height: auto;
+}
+#mua a{
+    margin: 5px;
+    text-decoration: none;
+}
+#mua a b{
+    font-size: 20px;
+}
+#team{
+    display: flex;
+   justify-content: space-around;
+   color: #777768;
+}
+#chuyen, #sut, #rebong, #theluc, #phongthu{
+    margin-left: 20px;
+}
+#chiso1{
+    list-style: none;
+    column-count: 4;
+    width: 85%;
+    text-align: center;
+    color: #777768;
+}
+#chiso1 li{
+    margin-top: 5px;
+}
+#tong1{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    background-color: #111111;
+}

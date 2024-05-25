@@ -1,0 +1,55 @@
+/* #anh img{
+    width: 50px;
+    
+}
+#cauthu{
+    display: flex;
+    background-color: #1a242a
+}
+#name{
+    width: 40%;
+}
+#name-left{
+    width: 100%;
+}
+#so{
+    display: flex;
+    margin-left: 50px;
+}
+#luong, #ovr, #sta{
+    margin: auto;
+    margin-left: 50px;
+}
+#anh span{
+    color: white;
+
+}
+#name-right img{
+    width: 25px;
+    
+}
+#name-right{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#chiso span b{
+    font-weight: 300px;
+    color: white;
+    background-color: red;
+}
+#chiso span i{
+    color: white;
+}
+#luong b, #ovr b, #sta b{
+    color: white;
+} */
+#top{
+    margin-left: 250px;
+}
+#top li{
+    margin-left: 10px;
+}
+/* #nem a{
+    text-decoration: none;
+    color: white;
+} */

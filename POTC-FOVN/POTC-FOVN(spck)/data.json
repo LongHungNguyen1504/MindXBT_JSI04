@@ -1,0 +1,89 @@
+[
+    {
+        "id" : 1,
+        "image" : "./images/ITM3.png",
+        "date": "02/04/2024" ,
+        "title":"[ICON TM T4] Mãnh Sư Tái Xuất – Khoảnh Khắc Lịch Sử",
+         "text" : "Vào đầu tháng 4, FC Online chính thức ra mắt thêm 5 ICON The Moment mới với sự xuất hiện của những huyền thoại vĩ đại giải Ngoại Hạng Anh như Dennis Bergkamp, Bobby Charlton, Michael Owen, Davor Šuker và John Barnes."
+    },
+    {
+        "id" : 2,
+        "image" : "./images/UCL.png",
+        "title" : "[Mùa Thẻ Mới] 23 UCL: Phong Độ Bùng Nổ – Gia Tăng Chỉ Số        ",
+        "date": "02/04/2024",
+        "text":"Các cặp trận tại lượt đi vòng Knockout C1 đã diễn ra vô cùng gay cấn, kịch tính với vô số bàn thắng đẹp mắt được ghi. Những đội bóng hàng đầu Châu Âu cạnh tranh trực tiếp để giành lấy chiếc cúp bạc danh giá. Để đồng hành cùng giải đấu, với khát khao đem đến cảm giác bóng đá chân thực nhất, FC Online ra mắt mùa thẻ mới – 23 UEFA Champions League. Mùa thẻ dành riêng cho 16 đội bóng xuất sắc tiến đến vòng Knock-out Champions League, hội tụ những ngôi sao được cập nhật chỉ số sát với phong độ thực qua từng vòng đấu."
+    },
+    {
+        "id" : 3,
+        "image":"./images/NEWI.png",
+        "title":"[New ICON TM T2] Khoảnh Khắc Thăng Hoa Của Huyền Thoại Patrick Vieira, Miroslav Klose, Jari Litmanen & Nakata",
+        "date":"26/02/2024",
+        "text":"Vào cuối tháng 2, chính thức xuất hiện thêm 4 huyền thoại góp mặt trong danh sách ICON The Moment với Patrick Vieira, Miroslav Klose, Jari Litmanen và Nakata. ICON TM là mùa thẻ đẳng cấp nhất của những huyền thoại, được lấy cảm hứng từ những khoảnh khắc mà họ thi đấu thăng hoa nhất. Hãy cùng tìm hiểu bộ tứ ICON The Moment có điều gì đặc biệt nhé! "
+        
+    },
+    {
+        "id":4,
+        "image" :"./images/journey.png",
+        "title":"[Mùa Thẻ Mới] Journeyman: Hành Trình Tạo Nên Lịch sử",
+        "date":"02/04/2024",
+        "text":"Mỗi khi được khoác áo ra sân là niềm vinh dự của mỗi cầu thủ, là cơ hội để thể hiện niềm đam mê với trái bóng tròn và niềm khát khao giành chiến thắng cùng đội bóng. Họ không chỉ là những cầu thủ, mà là những chiến binh không ngại gian nan tìm kiếm những thử thách mới, những vinh quang mới trong sự nghiệp lừng lẫy của mình.Hãy cùng chào đón mùa thẻ mới – Journeyman, vinh danh 34 cầu thủ đã không ngừng chinh phục những thử thách mới, gia nhập từ 8 đội bóng trở lên trong sự nghiệp thi đấu của mình."
+
+    },
+    {
+        "id":5,
+        "image":"./images/toty.png",
+        "date":"20/01/2024",
+        "title":"Công Bố Đội Hình Chính Thức 24TOTY",
+        "text":""
+    },
+    {
+        "id":6,
+        "image":"./images/hero.png",
+        "date":"18/01/2024",
+        "title":"[Mùa Thẻ Mới] 24 Heroes: Tập Hợp Siêu Anh Hùng – Chinh Phục Mọi Đỉnh Cao",
+        "text":"Siêu Anh Hùng là những nhân vật phi thường, sở hữu năng lực siêu nhiên. Gánh trên vai một trọng trách vô cùng to lớn, họ không chỉ là những chiến binh, mà còn là biểu tượng của lòng can đảm nhờ ý chí kiên cường và bất khuất. Tưởng chừng như áo choàng bay chỉ có ở trong truyện tranh nhưng không, thế giới vẫn luôn tồn tại những siêu anh hùng.Làng túc cầu chính là nơi đã sản sinh ra rất nhiều siêu anh hùng, họ là những cá nhân luôn tỏa sáng vào những thời khắc mà đội bóng gặp bế tắc ở những trận cầu nghẹt thở. Bằng tài năng cùng tinh thần chiến đấu không bao giờ bỏ cuộc, họ đã vực dậy tinh thần đội bóng và giành lấy những chiến thắng không tưởng.Khoảnh khắc ấy luôn khắc ghi trong tâm trí của người hâm mộ, họ không chỉ là những huyền thoại bóng đá mà còn là những người Hùng của đội bóng."
+    },
+    {
+        "id":7,
+        "image":"./images/23ng.jpg",
+        "date":"18/01/2024",
+        "title":"[Mùa Thẻ Mới] 23 New Generation: Thế Hệ Tiềm Năng – Khát Vọng Chiến Thắng",
+        "text":"Mùa giải 22/23 để lại ấn tượng sâu sắc với người hâm bộ bóng đá trên toàn thế giới với những màn chào sân đầy bùng nổ từ các ngôi sao trẻ tuổi. Họ là nhân tài, là những sao mai với phong độ thi đấu chói sáng và là niềm hy vọng cho đội bóng trong tương lai.Cùng FC Online chào đón sự xuất hiện của mùa thẻ mới – 23 New Generation, hội tụ hơn 100 tài năng trẻ sáng giá."
+    },
+    {
+        "id":8,
+        "image":"./images/icon.jpg",
+        "date":"18/01/2024",
+        "title":"[New ICON TM] Khoảnh Khắc Đỉnh Cao Của Những Huyền Thoại – Matthäus, Gattuso, Verón và Rui Costa",
+        "text":"Chính thức xuất hiện thêm 4 huyền thoại tiếp theo khoác lên màu áo ICON The Moment vào đầu năm mới 2024. Tái hiện lại khoảnh khắc thi đỉnh cao nhất trong sự nghiệp của Lothar Matthäus, Gennaro Gattuso, Juan Sebastián Verón và Rui Costa."
+
+    },
+    {
+        "id":9,
+        "image":"./images/totynew.jpg",
+        "date":"08/01/2024",
+        "title":"Công Bố Danh Sách 85 Ứng Cử Viên 24 Team Of The Year",
+        "text":"Giải thưởng Team of the Year đã chính thức trở lại trong năm 2024. 85 ứng cử viên, 18 giải thưởng Team of the Year, 12 cầu thủ tiêu biểu, 6 cầu thủ danh dự, hãy đưa ra bình chọn của bạn.Team of the Year 24 (24TOTY) bao gồm những cầu thủ có thành tích tốt nhất vào năm 2023, 12 cầu thủ được bình chọn nhiều nhất trên toàn thế giới sẽ giành được giải thưởng TOTY và sẽ xuất hiện trong mùa thẻ đặc biệt 24TOTY với bộ chỉ số vượt trội nhằm tôn vinh vị thế của một trong những cầu thủ bóng đá hàng đầu thế giới.Đặc biệt ở cuộc bình chọn 24TOTY năm nay, sẽ có thêm 6 giải thưởng Honorable Mentions dành cho 6 ứng cử viên được bình chọn nhiều nhất nhưng không lọt vào danh sách XI. 6 cầu thủ này cũng sẽ có riêng mùa thẻ 24TOTY trong FC Online và sẽ khác nhau tại mỗi khu vực."
+    },
+    {
+        "id":10,
+        "image":"./images/icon2.png",
+        "date":"19/12/2023",
+        "title":"[New ICON TM] Thời Kỳ Đỉnh Cao Của Những Huyền Thoại – Crespo, Solskjær, Ljungberg và Paulo Futre",
+        "text":"Vào giữa tháng 12, chính thức xuất hiện thêm bộ tứ cây săn bàn mới góp mặt trong hàng ngũ ICON The Moment với Hernán Crespo, Ole Gunnar Solskjær, Fredrik Ljungberg và Paulo Future.ICON The Moment là mùa thẻ đẳng cấp nhất của những huyền thoại và được lấy cảm hứng từ những khoảnh khắc thi đấu thăng hoa nhất trong sự nghiệp của các cầu thủ. Hãy cùng khám phá bộ tứ huyền thoại lần này có gì đặc biệt nhé!"
+    },
+    {
+        "id":11,
+        "image":"./images/decade.png",
+        "date":"28/11/2023",
+        "title":"[MÙA THẺ MỚI] DECADE: TỪ BƯỚC CHẠY KHÔNG NGỪNG NGHỈ, ĐẾN NHỮNG CHIẾN THẮNG THẾ KỶ",
+        "text":"Trong làng túc cầu, việc những cầu thủ gắn bó dành cho một đội bóng trong suốt thời gian dài không chỉ là niềm đam mê mà còn là tình yêu và lòng chung thủy dành cho đội bóng mà họ thi đấu.Hãy cùng chào đón mùa thẻ mới – Decade, vinh danh những chiến binh đã nỗ lực cống hiến hết mình hơn cả một thập kỷ để mang những vinh quang dành cho đội bóng trong tim của mình."
+     },
+     {
+        "id":12,
+        "image":"./images/kaka.png",
+        "date":"28/11/2023",
+        "title":"[New ICON TM] Sự Thăng Hoa Của Bộ Tứ Huyền Thoại Serie A – Kaká, Zola, Nesta và Pirlo",
+        "text":"Chào đón sự xuất hiện của 4 ICON TM vào cuối tháng 11, hứa hẹn sẽ tái hiện lại khoảnh khắc thi đấu đầy thăng hoa của những Ricardo Kaká, Gianfranco Zola, Alessandro Nesta hay Andrea Pirlo tại FC Online.ICON The Moment là mùa thẻ đẳng cấp nhất của những huyền thoại và được lấy cảm hứng từ những khoảnh khắc thi đấu thăng hoa nhất trong sự nghiệp của các cầu thủ. Hãy cùng khám phá bộ tứ huyền thoại lần này có gì đặc biệt nhé!"
+     }
+]

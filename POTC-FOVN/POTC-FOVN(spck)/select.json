@@ -1,0 +1,141 @@
+[
+    {
+        "id":1,
+        "name":"Pelé",
+        "vitri":"CF",
+        "img":"./images/pele2.png",
+        "vitriphu":"ST",
+        "chiso":115,
+        "chisophu":115,
+        "luong":28,
+        "sta":113
+        
+    },
+    {
+        "id":2,
+        "name":"Johan Cruyff",
+        "vitri":"CF",
+        "img":"./images/johan.png",
+        "vitriphu":"ST",
+        "chiso":114,
+        "chisophu":112,
+        "luong":28,
+        "sta":108
+        
+    },
+    {
+        "id":3,
+        "name":"Zinedine Zidane",
+        "vitri":"CAM",
+        "img":"./images/zidane.png",
+        "vitriphu":"CM",
+        "chiso":114,
+        "chisophu":113,
+        "luong":28,
+        "sta":112
+        
+    },
+    {
+        "id":4,
+        "name":"M.Van Basten",
+        "vitri":"ST",
+        "img":"./images/basten.png",
+        "vitriphu":"CF",
+        "chiso":114,
+        "chisophu":112,
+        "luong":28,
+        "sta":107
+        
+    },
+    {
+        "id":5,
+        "name":"Ronaldo",
+        "vitri":"ST",
+        "img":"./images/robeo.png",
+        "vitriphu":"CF",
+        "chiso":114,
+        "chisophu":112,
+        "luong":28,
+        "sta":112
+        
+    },
+    {
+        "id":6,
+        "name":"L.Matthäus",
+        "vitri":"CM",
+        "img":"./images/mathu.png",
+        "vitriphu":"CDM",
+        "chiso":114,
+        "chisophu":114,
+        "luong":27,
+        "sta":119
+        
+    },
+    {
+        "id":7,
+        "name":"R.Gullit",
+        "vitri":"CF",
+        "img":"./images/gu.png",
+        "vitriphu":"CAM",
+        "chiso":113,
+        "chisophu":113,
+        "luong":29,
+        "sta":115        
+    },
+    {
+        "id":8,
+        "name":"T.Henry",
+        "vitri":"ST",
+        "img":"./images/henry.png",
+        "vitriphu":"CF",
+        "chiso":112,
+        "chisophu":110,
+        "luong":27,
+        "sta":112       
+    },
+    {
+        "id":9,
+        "name":"D.Beckham",
+        "vitri":"RM",
+        "img":"./images/beck.png",
+        "vitriphu":"CM",
+        "chiso":112,
+        "chisophu":112,
+        "luong":26,
+        "sta":118       
+    },
+    {
+        "id":10,
+        "name":"Kaká",
+        "vitri":"CAM",
+        "img":"./images/kaka1.png",
+        "vitriphu":"CM",
+        "chiso":112,
+        "chisophu":111,
+        "luong":27,
+        "sta":110       
+    },
+    {
+        "id":11,
+        "name":"S.Eto'o ",
+        "vitri":"ST",
+        "img":"./images/eto.png",
+        "vitriphu":"CF",
+        "chiso":112,
+        "chisophu":110,
+        "luong":26,
+        "sta":114       
+    },
+    {
+        "id":13,
+        "name":"P. Maldini  ",
+        "vitri":"CB",
+        "img":"./images/ma.png",
+        "vitriphu":"CF",
+        "chiso":113,
+        "chisophu":113,
+        "luong":27,
+        "sta":113       
+    }
+    
+]

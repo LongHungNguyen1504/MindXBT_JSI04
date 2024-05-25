@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ </title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="silder.css">
+</head>
+
+<body>
+
+    <div id="header">
+        <div id="head-left">
+            <a href="index.html"> <img src="https://fconline.garena.vn/wp-content/uploads/2023/09/logo.png" id="logo"
+                    alt=""></a>
+            <ul id="left-icon">
+                <li><a href="index.html">TRANG CHỦ </a></li>
+                <li><a href="cauthu.html">CẦU THỦ </a></li>
+                <li><a href="#">SỰ KIỆN</a></li>
+                <li><a href="">HƯỚNG DẪN CÁCH CHƠI</a></li>
+
+            </ul>
+        </div>
+        <div id="head-right">
+            <ul id="right-icon">
+                <li><a href="signup.html"><button id="ri-btn">Đăng kí</button></a></li>
+                <li><a href="signin.html"><button id="ri-btn">Đăng nhập</button></a></li>
+            </ul>
+        </div>
+    </div>
+    <div>
+        <img id="photodong" src="./images/slide1-1.gif" alt="">
+    </div>
+    <div id="st-events">
+        <h2 style="display: inline-block;" class="st-events__title">Các sự kiện đang diễn ra</h2>
+
+        <div class="slideshow-container">
+
+            <div class="mySlides fade">
+                <div class="numbertext">1 / 5</div>
+                <img src="./images/sotay.png" style="width:100%">
+
+            </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext">2 / 5</div>
+                <img src="./images/puzz.png" style="width:100%">
+
+            </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext">3 / 5</div>
+                <img src="./images/month.jpg" style="width:100%">
+
+            </div>
+            <div class="mySlides fade">
+                <div class="numbertext">4 / 5</div>
+                <img src="./images/ut.png" style="width:100%">
+
+            </div>
+            <div class="mySlides fade">
+                <div class="numbertext">5 / 5</div>
+                <img src="./images/vn.png" style="width:100%">
+
+            </div>
+            <div id="button">
+                <a class="prev" onclick="plusSlides(-1)">
+                    < </a>
+                        <a class="next" onclick="plusSlides(1)">></a>
+            </div>
+
+        </div>
+        <br>
+
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+        </div>
+
+        <div id="news">
+            <h2 class="st-news__title">CÁC TIN NỔI BẬT</h2>
+            <div class="tab">
+                <button class="tablinks" onclick="openCity(event, 'sk')">Sự kiện</button>
+                <button class="tablinks" onclick="openCity(event, 'vp')">Vật Phẩm</button>
+                <button class="tablinks" onclick="openCity(event, 'gd')">Giải Đấu </button>
+                <button class="tablinks" onclick="openCity(event, 'dn')">Dev Notes</button>
+            </div>
+            <div id="sk" class="tabcontent">
+
+            </div>
+
+            <div id="vp" class="tabcontent">
+                <h3>Paris</h3>
+                <p>Paris is the capital of France.</p>
+            </div>
+
+            <div id="gd" class="tabcontent">
+                <h3>Tokyo</h3>
+                <p>Tokyo is the capital of Japan.</p>
+            </div>
+
+            <div id="dn" class="tabcontent">
+                <h3>Tokyo</h3>
+                <p>Tokyo is the capital of Japan.</p>
+            </div>
+        </div>
+
+        <div id="footer">
+            <div id="footer-img">
+                <img src="images/logos.png" alt="">
+            </div>
+            <div id="footer-content">
+                © 2023 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS,
+                <br>
+
+                The EA SPORTS logo, EA SPORTS FC, and the EA SPORTS FC logo are trademarks of Electronic Arts Inc.
+
+            </div>
+</body>
+<script src="index.js"></script>
+<script src="slider.js"></script>
+
+</html>

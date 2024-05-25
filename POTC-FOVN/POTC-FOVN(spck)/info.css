@@ -1,0 +1,47 @@
+#laliga video{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: auto;
+   
+}
+#laliga1 p{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+    width: 30%;
+    font-size: 22px;
+    margin-right: 100px;
+    margin-top: 150px;
+
+}
+#laliga1 img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+
+}
+/* #budes video{
+    width: 100%;
+}
+#budes p{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+    width: 30%;
+    font-size: 22px;
+    margin-left: 100px;
+    margin-top: 150px;
+
+}
+#laliga1 img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+
+} */
+
