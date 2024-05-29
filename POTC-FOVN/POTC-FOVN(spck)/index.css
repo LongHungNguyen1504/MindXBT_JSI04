@@ -57,6 +57,7 @@ nav.before .active-element {
     font-family: Verdana, sans-serif;
     font-size: 16px;
     color: #07f468;
+    text-transform: uppercase;
 }
 
 #ri-btn:hover {
@@ -126,12 +127,13 @@ nav.before .active-element {
 .tab {
     overflow: hidden;
     /* margin: -20px 0px 100px 460px  ; */
-margin: -30px 0px 0px 177px;
+    margin: -30px 0px 0px 177px;
+
 }
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
-    background-color: inherit;
+    background-color: transparent;
     float: left;
     border: 3px solid rgba(0, 0, 0, 0);
     outline: none;
@@ -145,16 +147,16 @@ margin: -30px 0px 0px 177px;
     font-family: Verdana, sans-serif;
     font-size: 16px;
     margin: 0px 0px 0px 110px;
+
 }
 
-.tab button ::before {
+.tab button:before {
     content: "";
-    width: 1px;
+    width: 2px;
     height: 20px;
     position: absolute;
-    top: calc(50% - 10rem);
-    left: 0;
     background: #07f468;
+    margin-left: 150px;
 }
 
 /* Change background color of buttons on hover */

@@ -1,42 +1,8 @@
-html,
 body {
-    width: 100%;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-}
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    background-image: url(https://fconline.garena.vn/wp-content/themes/fc-online/assets/img/bg-events.jpg);
 
-.form-container {
-    width: 95%;
-    height: auto;
-    padding: 1.5%;
-
-    border-radius: 10px;
-
-}
-
-.form-container input {
-    margin: 10px 0;
-
-}
-
-.form-container input::placeholder {
-    color: grey;
-}
-
-.form-container button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    background-color: #383838;
-    color: antiquewhite;
-    border-radius: 5px;
-    font-size: 23px;
-}
-
-#signup-form label {
-    display: none;
 }
 
 nav ul {
@@ -51,51 +17,18 @@ nav.before .active-element {
     transform: rotateY(180deg);
 }
 
-#header h1 {
-    display: flex;
-    margin-left: 100px;
-    margin-right: 50px;
-
-    color: aliceblue;
-    margin-top: auto;
-
-
-}
-
-#st-events {
-    background: url(https://fconline.garena.vn/wp-content/themes/fc-online/assets/img/bg-events.jpg);
-}
-
-.st-events__title {
-    text-align: center;
-    font-size: 50px;
-
-    font-weight: 900;
-    line-height: 1.4em;
-    position: relative;
-    margin: 0 0 15px;
-    color: #010101;
-    text-transform: uppercase;
-}
-
-.st-events__item--name {
-    font-size: 25px;
-    font-weight: 700;
-    font-family: "Roboto Condensed", sans-serif;
-    text-transform: uppercase;
-    color: #141c31;
-}
+/* header */
 
 #header {
     background-color: #000000;
     display: flex;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 #head-left {
     margin-right: auto;
     display: flex;
-
 }
 
 #left-icon,
@@ -119,374 +52,134 @@ nav.before .active-element {
 
 }
 
-#right-icon li button {
-    background-color: #07f468;
+#right-icon button {
     margin-right: 10px;
     background-color: transparent;
-    border: 1px solid #07f468;
+    border: 3px solid #07f468;
     border-radius: 20px;
     width: 150px;
-    height: fit-content;
-}
-
-#head-right ul li :hover {
-    background-color: whitesmoke;
-}
-
-#head-right ul li button a {
-    background-color: transparent;
-    text-decoration: none;
-    color: #07f468;
+    height: 35px;
     font-family: Verdana, sans-serif;
     font-size: 16px;
-    align-items: center;
-
-
-
+    color: #07f468;
+    text-transform: uppercase;
 }
 
-
-#footer {
-    color: aliceblue;
-    background-color: #000000;
-    display: flex;
-    justify-content: space-between;
-    margin: auto;
-    height: 50%;
-}
-
-#u-footer {
-    background-color: #000000;
-}
-
-#us {
-    width: 30%;
-
-
-}
-
-
-#us ul {
-    list-style: none;
-    display: flex;
-    margin-top: 30px;
-
-}
-
-#us ul li {
-    margin-left: 30px;
-
-}
-
-#us ul li i {
-    font-size: 30px;
-}
-
-#contast ul li {
-    list-style-type: none;
-    margin-top: 20px;
-}
-
-#contast ul li a i {
-    font-size: 30px;
-    margin: 10px;
-    color: turquoise;
-}
-
-#map {
-    margin: 30px;
-}
-
-body {
-    font-family: Verdana, sans-serif;
-    margin: 0
-}
-
-.mySlides {
-    display: none
-}
-
-img {
-    vertical-align: middle;
-}
-
-/* Slideshow container */
-.slideshow-container {
-    max-width: 1000px;
-    position: relative;
-    margin: auto;
-}
-
-/* Next & previous buttons */
-.prev,
-.next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    padding: 16px;
-    margin-top: -22px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-    background-color: rgba(0, 0, 0, 0.8);
-}
-
-/* Caption text */
-.text {
-    color: #f2f2f2;
-    font-size: 15px;
-    padding: 8px 12px;
-    position: absolute;
-    bottom: 8px;
-    width: 100%;
-    text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-    color: #f2f2f2;
-    font-size: 12px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-}
-
-.active,
-.dot:hover {
-    background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
-}
-
-@keyframes fade {
-    from {
-        opacity: .4
-    }
-
-    to {
-        opacity: 1
-    }
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-
-    .prev,
-    .next,
-    .text {
-        font-size: 11px
-    }
+#ri-btn:hover {
+    color: black;
+    background-color: #fff;
+    border-radius: 20px;
+    transition: 0.7s;
 }
 
 #logo {
     width: 100%;
+    margin-left: 30px;
 }
 
-.player-list-table {
-    display: flex;
+/* header */
+
+
+/* signup */
+#signup-form {
+    margin-left: 345px;
+    margin-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 0.1px;
 }
 
-#photodong {
-    width: 100%;
+.form-container {
+    height: auto;
+    
+    border-radius: 50px;
+    background-image: url(https://fconline.garena.vn/wp-content/themes/fc-online/assets/img/bg-news-banner.jpg);
+    width: 800px;
 }
 
-
-/* slide */
-
-
-#sk-1 ul {
-    list-style: none;
-    display: flex;
-}
-
-#sk-1 ul li {
-    margin-left: 20px;
-}
-
-#sk-1 ul li button a {
-    text-decoration: none;
-}
-
-hr {
-    width: 90%;
-    margin-right: 100px;
-}
-
-#im img {
-    width: 104px;
-    height: 58px;
-    margin-right: 10px;
-}
-
-#im {
-    margin-left: 20px;
-}
-
-/* .slider {
-    scroll-snap-type: x mandatory;  
-    width: 300px;
-    height: 300px;
-    display: flex;
-    overflow-x: auto;
-    /* -webkit-overflow-scrolling: touch; */
-/* }
-  .slide > div {
-    width: 300px;
-    flex-shrink: 0;
-    height: 100%;
-    scroll-snap-align: start;
-  } */
-#the img {
-    display: block;
-
-
-}
-
-#the a {
-    text-decoration: none;
-}
-
-body {
-    font-family: Verdana, sans-serif;
-    margin: 0
-}
-
-.mySlides {
-    display: none
-}
-
-img {
-    vertical-align: middle;
-}
-
-/* Slideshow container */
-.slideshow-container {
-    max-width: 1000px;
-    position: relative;
-    margin: auto;
-}
-
-/* Next & previous buttons */
-.prev,
-.next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    padding: 16px;
-    margin-top: -22px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-    text-decoration: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-    background-color: rgba(0, 0, 0, 0.8);
-    text-decoration: none;
-}
-
-/* Caption text */
-.text {
-    color: #f2f2f2;
-    font-size: 15px;
-    padding: 8px 12px;
-    position: absolute;
-    bottom: 8px;
-    width: 100%;
+.form-container h1 {
     text-align: center;
+    font-family: Verdana, sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: -50px;
 }
 
-/* Number text (1/3 etc) */
-.numbertext {
-    color: #f2f2f2;
-    font-size: 12px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
+.form-container input {
+    margin: 20px;
+    background-color: transparent;
+    display: flex;
+    width: 500px;
+    height: 30px;
+    margin-left: -245px;
+    border: #07f468 3px solid;
+    border-radius: 10px;
+    color: #fff;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
+.form-container input::placeholder {
+    color: #fff;
+    font-family: Verdana, sans-serif;
 }
 
-.active,
-.dot:hover {
-    background-color: #717171;
+.form-container button {
+    margin-left: -100px;
+    background-color: #07f468;
+    color: #fff;
+    border-radius: 5px ;
+    font-size: 23px;
+    border: #000000 3px solid;
+   padding-left: 30px;
+   padding-top: 2px;
+    align-items: center;
+    padding-bottom: 2px;
+    padding-right: 30px;
+}
+.form-container button:hover{
+    color: #000000;
+    transition: 0.7s ;
+}
+.form-container h6 {
+    font-size: 13px;
+    color: #fff;
+    margin-left: -140px;
+}
+.form-container h6 a{
+    font-size: 13px;
+    color: red;
+    text-decoration: none;
+}
+.form-container h6 a:hover{
+    transition: 0.5s;
+    color: #07f468;
+}
+/* footer */
+#footer {
+    color: aliceblue;
+    background-color: #000000;
+    justify-content: space-between;
+    margin: auto;
+    height: 100%;
+    text-align: center;
+
 }
 
-/* Fading animation */
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
+#footer-img img {
+    margin-right: auto;
+    margin-left: auto;
+    height: 100%;
+    vertical-align: middle;
+    margin-top: 20px;
+
 }
 
-@keyframes fade {
-    from {
-        opacity: .4
-    }
-
-    to {
-        opacity: 1
-    }
+#footer-content {
+    color: #fff;
+    font-weight: 300;
+    font-family: "CruyffSansVN", sans-serif;
+    text-transform: uppercase;
+    padding: 15px;
 }
 
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-
-    .prev,
-    .next,
-    .text {
-        font-size: 11px
-    }
-}
+/* footer */
